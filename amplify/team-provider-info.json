@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-vulnapp-dev-64c2e-authRole",
+      "UnauthRoleArn": "arn:aws:iam::036023257242:role/amplify-vulnapp-dev-64c2e-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::036023257242:role/amplify-vulnapp-dev-64c2e-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-vulnapp-dev-64c2e-deployment",
+      "UnauthRoleName": "amplify-vulnapp-dev-64c2e-unauthRole",
+      "StackName": "amplify-vulnapp-dev-64c2e",
+      "StackId": "arn:aws:cloudformation:us-east-1:036023257242:stack/amplify-vulnapp-dev-64c2e/14f11de0-a3bc-11ef-964c-0e2fa23c60a7",
+      "AmplifyAppId": "d4wa17xuaufkn"
+    },
+    "categories": {
+      "hosting": {
+        "S3AndCloudFront": {}
+      }
+    }
+  }
+}
